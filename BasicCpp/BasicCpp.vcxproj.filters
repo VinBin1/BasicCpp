@@ -30,6 +30,9 @@
     <ClCompile Include="..\..\Engine0001\Engine0001\Renderer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mostbasicversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Engine0001\Engine0001\Renderer.h">
