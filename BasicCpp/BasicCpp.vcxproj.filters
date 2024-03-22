@@ -21,21 +21,24 @@
     <ClCompile Include="..\..\Engine0001\Engine0001\ConsoleEngineV0001.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Engine0001\Engine0001\ConsoleEngine2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Engine0001\Engine0001\ConsoleEngine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Engine0001\Engine0001\Renderer.cpp">
+    <ClCompile Include="Mostbasicversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleEngine2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Engine0001\Engine0001\Renderer.h">
+    <ClInclude Include="..\..\Engine0001\Engine0001\ConsoleEngine.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Engine0001\Engine0001\ConsoleEngine.h">
+    <ClInclude Include="Renderer.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
